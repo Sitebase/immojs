@@ -1,1145 +1,175 @@
- charset='utf-8'> http-equiv='x-ua-compatible' content='ie=edge,chrome=1'> woning te koop - retieseweg in=2440
- geel - ref= bqnga9170201103
- - immoscoop name="description" content="immo geel - woning te koop in retieseweg=2440
- geel - ref= bqnga9170201103
-" /> property="og=url" content="https=//www.immoscoop.be/te-koop/immo/woning/geel/turnhout/502585
-/" /> property="og=title" content="woning te koop in geel op immoscoop!" /> property="og=description" content="deze recent gerenoveerde woning is gelegen nabij het centrum van geel op een perceel van=31
-a39
-ca. via de moderne inkomhal bereiken we de leefruimte met grote raampartijen waardoor er veel natuurlijk" /> property="og=image" content="https=//s3-eu-west-1.amazonaws.com/immoscoop/belgie/mb118
-/2020
--11
--05
-/502585
-/146777361708295
-.jpeg" /> property="og=image=type" content="jpeg" /> property="og=image=width" content="200
-" /> property="og=image=height" content="200
-" /> name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no'> /*<![cdata[*/function gtag_report_conversion(url) { var callback function () { //if (typeof(url) !='undefined') { //window.location url; //} }; gtag('event', 'conversion', { 'send_to'= 'aw-880323939
-/ga9scije7ysbeopa4qmd', 'event_callback'= callback }); return false;} /*]]>*/ <path d="m88.9
-,12.9
-c-0.1
-,6-3.8
-,12
--11.9
-,12
-c-8.2
-,0-12
--5.9
--12
--12
-c0-6.1
-,3.9
--12.3
-,12
--12.3
-c85,0
-.7,89
-,6.8
-,88.9
-,12.9
-z m69.3
-,13
- c0.1
-,3.8
-,2.2
-,7.9
-,7.6
-,7.9
-c5.5
-,0,7
-.5-4.1
-,7.6
--7.9
-c84.6
-,9,82
-.4,4
-.7,77
-,4.7
-c71.5
-,4.7
-,69.2
-,9.1
-,69.3
-,13
-z"> <path d="m107.7
-,5.6
-c-1.7
--2.7
--4.4
--3.1
--7-3.2
-c-2.7
-,0-7,1
--7,4
-.7c0,3
-,3.2
-,3.7
-,7.1
-,4.4
-c4.5
-,0.9
-,9.1
-,1.7
-,9.1
-,6.7
-c0,5
-.3-5.3
-,6.5
--9.2
-,6.5
- c-3.6
-,0-7.7
--1.5
--9.5
--5.1
-l1.6
--0.8
-c1.4
-,2.8
-,5.1
-,4.2
-,7.9
-,4.2
-s7.4
--0.8
-,7.4
--4.9
-c0-3.5
--3.8
--4.3
--7.6
--5c-4.3
--0.8
--8.6
--1.7
--8.6
--6 c-0.1
--4.9
-,5-6.4
-,8.8
--6.4
-c3.3
-,0,6
-.2,0
-.5,8
-.5,4
-l107.7
-,5.6
-z"> <path d="m132.9
-,21.2
-c-2.3
-,2.3
--5.4
-,3.5
--8.5
-,3.5
-c-7.8
-,0-11.9
--5.5
--12
--11.8
-c-0.1
--6.2
-,4-12,12
--12
-c3.1
-,0,6
-.1,1
-.2,8
-.5,3
-.5l-1.2
-,1.1
- c-2-2-4.6
--3-7.2
--3c-6.8
-,0-10.3
-,4.8
--10.2
-,10.4
-c0.1
-,5.4
-,3.5
-,10.2
-,10.2
-,10.2
-c2.6
-,0,5
-.3-1,7
-.3-3l132.9
-,21.2
-z"> <path d="m159.5
-,12.8
-c0,6
-.1-3.9
-,12
--11.7
-,12
-c-7.8
-,0-11.7
--5.9
--11.7
--12.1
-c0-6.2
-,3.9
--12,11
-.7-12
-c155.6
-,0.8
-,159.5
-,6.5
-,159.5
-,12.8
-z m137.8
-,12.8
-c0,5
-.3,3
-.4,10
-.4,10
-,10.4
-c6.6
-,0,10
--5.1
-,10
--10.4
-c0-5.4
--3.3
--10.3
--10
--10.3
-c141.1
-,2.4
-,137.7
-,7.3
-,137.8
-,12.8
-z"> <path d="m186.2
-,12.8
-c0,6
-.1-3.9
-,12
--11.7
-,12
-c-7.8
-,0-11.7
--5.9
--11.7
--12.1
-c0-6.2
-,3.9
--12,11
-.7-12
-s186.3
-,6.5
-,186.2
-,12.8
-z m164.5
-,12.8
- c0,5
-.3,3
-.4,10
-.4,10
-,10.4
-c6.6
-,0,10
--5.1
-,10
--10.4
-c0-5.4
--3.3
--10.3
--10
--10.3
-s164.5
-,7.3
-,164.5
-,12.8
-z"> <path d="m192.3
-,16.4
-v8h-1.8
-v1.1
-c3.4
-,0,6
-.8,0
-,10.2
-,0c10.1
-,0,10
-.1,15
-.2,0
-,15.2
-h192.3
-z m192.3
-,2.8
-v11.9
-h8.4
-c7.7
-,0,7
-.7-11.9
-,0-11.9
- h192.3
-z"> <path d="m12.5
-,0c5.6
-,0,0
-,5.6
-,0,12
-.5c0,19
-.4,5
-.6,25
-,12.5
-,25
-c19.4
-,25,25
-,19.4
-,25,12
-.5c25,5
-.6,19
-.4,0
-,12.5
-,0 m17.6
-,10.2
- c0,0
-.1,0
-,0.2
-,0,0
-.3c0,3
-.3-2.5
-,7-7,7
-c-1.4
-,0-2.7
--0.4
--3.8
--1.1
-c0.2
-,0,0
-.4,0
-,0.6
-,0c1.2
-,0,2
-.2-0.4
-,3.1
--1.1
-c-1.1
-,0-2-0.7
--2.3
--1.7
- c0.2
-,0,0
-.3,0
-,0.5
-,0c0.2
-,0,0
-.4,0
-,0.6
--0.1
-c-1.1
--0.2
--2-1.2
--2-2.4
-c0,0
-,0,0
-,0,0
-c0.3
-,0.2
-,0.7
-,0.3
-,1.1
-,0.3
-c-0.7
--0.4
--1.1
--1.2
--1.1
--2 c0-0.5
-,0.1
--0.9
-,0.3
--1.2
-c1.2
-,1.5
-,3,2
-.5,5
-.1,2
-.6c0-0.2
--0.1
--0.4
--0.1
--0.6
-c0-1.4
-,1.1
--2.5
-,2.5
--2.5
-c0.7
-,0,1
-.3,0
-.3,1
-.8,0
-.8 c17.5
-,8.5
-,18,8
-.3,18
-.5,8
-c-0.2
-,0.6
--0.6
-,1.1
--1.1
-,1.4
-c0.5
--0.1
-,1-0.2
-,1.4
--0.4
-c18.5
-,9.5
-,18.1
-,9.9
-,17.6
-,10.2
-"> <path d="m12.5
-,0c5.6
-,0,0
-,5.6
-,0,12
-.5c0,19
-.4,5
-.6,25
-,12.5
-,25
-c19.4
-,25,25
-,19.4
-,25,12
-.5c25,5
-.6,19
-.4,0
-,12.5
-,0 m9.4
-,17.7
-h6.9
-v9.5
-h2.5
- v17.7
-z m8.2
-,8.5
-c7.4
-,8.5
-,6.8
-,8,6
-.8,7
-.3c6.8
-,6.6
-,7.4
-,6,8
-.2,6
-c9,6
-,9.5
-,6.6
-,9.5
-,7.3
-c9.5
-,8,9
-,8.5
-,8.2
-,8.5
- m18.7
-,17.7
-h-2.5
-v-4.5
- c0-1-0.4
--1.8
--1.3
--1.8
-c-0.7
-,0-1.1
-,0.5
--1.3
-,0.9
-c-0.1
-,0.2
--0.1
-,0.4
--0.1
-,0.6
-v4.7
-h11
-v-5.5
-c0-1,0
--1.9
--0.1
--2.6
-h2.2
-l0.1
-,1.1
-h0 c0.3
--0.5
-,1.1
--1.3
-,2.5
--1.3
-c1.7
-,0,2
-.9,1
-.1,2
-.9,3
-.5v17.7
-z"> <path d="m17.2
-,7.7
-h-0.3
-v4.9
-c0-0.2
--0.2
--0.4
--0.4
--0.4
-h8.1
-c-0.2
-,0-0.4
-,0.2
--0.4
-,0.4
-v2.8
-h7.5
-c-1.2
-,0-2.2
-,1-2.2
-,2.2
-v4.5
- c0,1
-.2,1
-,2.2
-,2.2
-,2.2
-h0.3
-v2.8
-c0,0
-.2,0
-.2,0
-.4,0
-.4,0
-.4h8.4
-c0.2
-,0,0
-.4-0.2
-,0.4
--0.4
-v-2.8
-h0.3
-c1.2
-,0,2
-.2-1,2
-.2-2.2
-v9.8
- c19.3
-,8.6
-,18.4
-,7.7
-,17.2
-,7.7
-l17.2
-,7.7
-z m8.5
-,5.3
-h7.6
-v2.4
-h8.5
-v5.3
-z m16.1
-,18.9
-h8.5
-v-4.5
-h7.6
-v18.9
-z m18.6
-,14.3
- c0,0
-.8-0.6
-,1.4
--1.4
-,1.4
-h-0.3
-v-1.3
-h0.8
-c0.2
-,0,0
-.4-0.2
-,0.4
--0.4
-c0-0.2
--0.2
--0.4
--0.4
--0.4
-h7.1
-c-0.2
-,0-0.4
-,0.2
--0.4
-,0.4
- c0,0
-.2,0
-.2,0
-.4,0
-.4,0
-.4h0.7
-v1.3
-h7.5
-c-0.8
-,0-1.4
--0.6
--1.4
--1.4
-v9.8
-c6,9
-,6.7
-,8.4
-,7.5
-,8.4
-h9.7
-c0.8
-,0,1
-.4,0
-.6,1
-.4,1
-.4l18.6
-,14.3
- l18.6
-,14.3
-z m18.6
-,14.3
-"> <path d="m16.5
-,9.8
-c-0.3
-,0-0.5
-,0.2
--0.5
-,0.5
-c0,0
-.3,0
-.2,0
-.5,0
-.5,0
-.5c0.3
-,0,0
-.5-0.2
-,0.5
--0.5
-c17,10
-.1,16
-.8,9
-.8,16
-.5,9
-.8 l16.5
-,9.8
-z m16.5
-,9.8
-"> <path d="m9.3
-,15.7
-h6c0.2
-,0,0
-.4-0.2
-,0.4
--0.4
-c0-0.2
--0.2
--0.4
--0.4
--0.4
-h-6c9.1
-,15,9
-,15.2
-,9,15
-.4c9,15
-.6,9
-.1,15
-.7,9
-.3,15
-.7 l9.3
-,15.7
-z m9.3
-,15.7
-"> <path d="m9.3
-,17.1
-h6c0.2
-,0,0
-.4-0.2
-,0.4
--0.4
-c0-0.2
--0.2
--0.4
--0.4
--0.4
-h-6c-0.2
-,0-0.4
-,0.2
--0.4
-,0.4
- c9,16
-.9,9
-.1,17
-.1,9
-.3,17
-.1l9.3
-,17.1
-z m9.3
-,17.1
-"> <path d="m12.5
-,10
-c-2.1
-,0-3.8
-,1.7
--3.8
-,3.8
-c0,2
-.1,1
-.7,3
-.8,3
-.8,3
-.8c2.1
-,0,3
-.8-1.7
-,3.8
--3.8
-c16.2
-,11.7
-,14.6
-,10,12
-.5,10
- m22.5
-,6.2
-h-3 c-0.4
-,0-0.9
--0.3
--1-0.7
-l-0.8
--2.3
-c-0.1
--0.4
--0.6
--0.7
--1-0.7
-h8.2
-c-0.4
-,0-0.9
-,0.3
--1,0
-.7l6.5
-,5.5
-c-0.1
-,0.4
--0.6
-,0.7
--1,0
-.7h-3 c1.1
-,6.2
-,0,7
-.4,0
-,8.8
-v20
-c0,1
-.4,1
-.1,2
-.5,2
-.5,2
-.5h20
-c1.4
-,0,2
-.5-1.1
-,2.5
--2.5
-v8.8
-c25,7
-.4,23
-.9,6
-.2,22
-.5,6
-.2 m12.5
-,20
- c-3.5
-,0-6.2
--2.8
--6.2
--6.2
-c0-3.5
-,2.8
--6.2
-,6.2
--6.2
-c3.5
-,0,6
-.2,2
-.8,6
-.2,6
-.2c18.8
-,17.2
-,16,20
-,12.5
-,20
- m21.6
-,10.5
-c-0.5
-,0-0.9
--0.4
--0.9
--0.9
- c0-0.5
-,0.4
--0.9
-,0.9
--0.9
-c0.5
-,0,0
-.9,0
-.4,0
-.9,0
-.9c22.5
-,10.1
-,22.1
-,10.5
-,21.6
-,10.5
-"> <path d="m13.3
-,13.3
-c15.5
-,11.1
-,18,9
-.1,19
-,10
-c1.4
-,1.4
-,2.3
-,2.7
-,5.5
-,0.1
-c3.1
--2.5
-,0.7
--4.2
--0.7
--5.6
-c-1.6
--1.6
--7.5
--0.1
--13.4
-,5.8
- c4.5
-,16.3
-,3,22
-.2,4
-.6,23
-.8c1.4
-,1.4
-,3.1
-,3.8
-,5.6
-,0.7
-c2.5
--3.1
-,1.3
--4-0.1
--5.5
-c9.1
-,18,11
-.1,15
-.5,13
-.3,13
-.3"> <path d="m15,3
-c8.4
-,3,3
-,8.4
-,3,15
-c0,6
-.6,5
-.4,12
-,12,12
-c6.6
-,0,12
--5.4
-,12
--12
-c27,8
-.4,21
-.6,3
-,15,3
- m25.2
-,15
-c0,2
-.3-0.8
-,4.5
--2.1
-,6.2
- c-0.4
--0.3
--0.8
--1.1
--0.4
--1.9
-c0.4
--0.8
-,0.5
--2.7
-,0.4
--3.5
-c-0.1
--0.7
--0.5
--2.5
--1.5
--2.5
-c-1,0
--1.8
--0.4
--2.4
--1.6
-c-1.3
--2.6
-,2.4
--3.1
-,1.1
--4.5
- c-0.4
--0.4
--2.2
-,1.7
--2.5
--1.1
-c0-0.2
-,0.2
--0.5
-,0.4
--0.8
-c22.3
-,6.7
-,25.2
-,10.5
-,25.2
-,15
- m13.6
-,4.9
-c-0.2
-,0.5
--0.9
-,0.7
--1.3
-,1 c-0.9
-,0.8
--1.2
-,0.7
--1.7
-,1.4
-c-0.5
-,0.7
--2,1
-.8-2,2
-.3c0,0
-.5,0
-.8,1
-.2,1
-.1,1
-c0.4
--0.1
-,1.4
--0.1
-,2,0
-.1c0.6
-,0.2
-,4.9
-,0.4
-,3.5
-,4.1
- c-0.4
-,1.2
--2.3
-,1-2.8
-,2.9
-c-0.1
-,0.3
--0.3
-,1.5
--0.4
-,1.9
-c0,0
-.6,0
-.4,2
-.9-0.2
-,2.9
-c-0.6
-,0-2.2
--2-2.2
--2.4
-c0-0.4
--0.4
--1.7
--0.4
--2.8
- c0-1.1
--1.9
--1.1
--1.9
--2.6
-c0-1.3
-,1-2,0
-.8-2.6
-c-0.2
--0.6
--2-0.7
--2.8
--0.7
-c6.8
-,7.9
-,9.9
-,5.4
-,13.6
-,4.9
- m11.8
-,24.7
-c0.6
--0.3
-,0.7
--0.7
-,1.2
--0.8
- c0.6
-,0,1
-.2-0.2
-,1.9
--0.4
-c0.6
--0.1
-,1.8
--0.8
-,2.8
--0.9
-c0.8
--0.1
-,2.5
-,0,3
-,0.9
-c-1.6
-,1.1
--3.6
-,1.7
--5.6
-,1.7
-c13.9
-,25.2
-,12.8
-,25.1
-,11.8
-,24.7
-"> <path d="m15,0
-c-5,0
--9,4
-.2-9,9
-.4c0,9
-,9,20
-.6,9
-,20.6
-s9-11.7
-,9-20.6
-c24,4
-.2,20
-,0,15
-,0 m15,14
-.5c-2.7
-,0-4.9
--2.3
--4.9
--5.1
- c0-2.8
-,2.2
--5.1
-,4.9
--5.1
-c2.7
-,0,4
-.9,2
-.3,4
-.9,5
-.1c19.9
-,12.3
-,17.7
-,14.5
-,15,14
-.5"> <path d="m13.5
-,15
-h9.2
-c0,6
-.7,0
-,15,0
-,15
-h3c0,0
-,0-8.2
-,0-15
-h0v9.7
-h3v6.3
-c3,3
-.8,4
-.1,0
-,9.3
-,0l4.6
-,0v5.1
-c0,0
--2.8
-,0-3.4
-,0 c-0.5
-,0-1.3
-,0.3
--1.3
-,1.4
-v3.1
-h14
-l13.5
-,15
-z"> toggle navigation aanmelden registreren makelaars nl en fr nl en fr toggle navigation aanmelden registreren makelaars nl en fr nl en fr aanmelden log in op je immoscoop account login met facebook of aanmelden heb je nog geen account? registreer message ok uis=4184306
- -=02
-/11
-/2020
- woning te koop geelretieseweg=19
- foto’s toevoegen aan favorieten beschrijving deze recent gerenoveerde woning is gelegen nabij het centrum van geel op een perceel van=31
-a39
-ca. via de moderne inkomhal bereiken we de leefruimte met grote raampartijen waardoor er veel natuurlijk licht naar binnen kan, aansluitend vinden we de open ingerichte leefkeuken met alle moderne toestellen. daarnaast is er ook een speelruimte voor de kinderen voorzien. al deze ruimtes zijn afgewerkt met een epoxy vloer. verder vinden we op deze gelijkvloerse verdieping een technische ruimte, een wasplaats, een inpandige garage en toegang tot een droge kelder, tevens is er een apart gastentoilet aanwezig.op het=1ste verdiep zijn er=2 slaapkamers aanwezig waarvan=1 met de mogelijkheid voor een dressing. de badkamer is volledig vernieuwd met ligbad, inloopdouche, modern badmeubel en toilet.de=2de verdieping is voorzien van de=3de en grootste slaapkamer met een fantastisch zicht over de tuin.de tuin werd volledig aangelegd en een ruim terras waar u makkelijk een tuinset en loungeset kan voorzien. achteraan is er nog een bijgebouw.troeven= - nieuwe cv ketel en alu ramen - elektriciteit conform - instapklaar - totaalrenovatie - warmtepomp- zonnepanelenovername groenestroomcertificaten is te bespreken.ben je benieuwd en wil je eens komen kijken? bel ons op het nummer=014=58
-=02=08
-. bekijk dit pand bij de makelaar eigenschappen type woning ligging geel straatnaam retieseweg transactie te koop slaapkamers=3 badkamers=1 woonoppervlakte=266
- m2 terrein oppervlakte=3139
- m2 epc waarde bekijk de epc gegevens bouwjaar=1949
- makelaar ref.=4184306
- immoscoop ref. bqnga9170201103
- publicatie=02
-/11
-/2020
- stedenbouwkundig vergunning=01
- verkavelingsvergunning=00
- dagvaarding=00
- voorkooprecht=01
- stedenbouwkundige bestemming agrarisch gebied overstromingsgebied=00
- contact graag had ik meer informatie ontvangen over een zoekertje dat ik vond op immoscoop met referentie= bqnga9170201103
-, woning te koop in geel. versturen of=014=58
-=02=08
- inloggen registreren help over immoscoop vastgoedmakelaars blog adverteren partners vacatures contact privacy gebruiksvoorwaarden ©=2020
- immoscoop .popup{ position= fixed; width=100
-%; top=0%; min-height=200
-px; height=100
-%; z-index=100
-; background= #ffffff; font-size=20
-px; text-align= center; display=none; }#popup_form{ position=fixed; width=auto; top=50
-%; left=50
-%; background-color=#ddd; padding=10
-px; border=1px solid #aaa; display=none; z-index=101
-; -moz-border-radius=10
-px; -moz-box-shadow=0=0
-=10
-px #aaa; -webkit-border-radius=10
-px; -webkit-box-shadow=0=0
-=10
-px #aaa;}.static-map, #map { height=100
-%; max-width=100
-%;} /*<![cdata[*/$(document).ready(function(){ $("#cancel_hide").click(function(){ $("#popup_form").fadeout("normal"); $("#shadow").fadeout(); }); $(document).on('click','#add_fav',function(){ prop_id $(this).data("id") ; $.ajax({ type= "get", url= "https=//www.immoscoop.be/ajax_favorite.php", data= "fav="+prop_id, success= function(html){ if(html =="true") { document.getelementbyid('msg_popup_header').innerhtml 'favorieten'; document.getelementbyid('msg_popup').innerhtml 'deze woning is nu opgeslaan in je favorieten. je zal automatisch op de hoogte blijven van nieuwe wijzigingen.'; $('#js-modal-add-to-favorite').modal('show'); } else { if(html =="log in op je immoscoop account") { $('#js-modal-save-search').modal('show'); } else if(html !="") { document.getelementbyid('msg_popup_header').innerhtml 'favorieten'; document.getelementbyid('msg_popup').innerhtml html; $('#js-modal-add-to-favorite').modal('show'); } } }, beforesend=function() { } }); return false; }); $('#delete_fav').click(function(){ $("#shadow").fadein("normal"); $("#popup_form").fadein("normal"); fav_id $(this).data("id") ; if (fav_id !='') { $.ajax({ type= "get", url= "https=//www.immoscoop.be/delete_favorite.php", data= "id="+fav_id, success= function(html){ if(html =="true") { $("#add_err").html("verwijderd uit favorieten"); } else { $("#add_err").html(html); } }, beforesend=function() { $("#add_err").html("loading...") } }); } return false; }); $('#add_external_url').click(function(e){ e.preventdefault(); var redirectwindow window.open(this.href, '_blank'); p_id $(this).data("id") ; m_id document.getelementbyid('m_id').value ; $.ajax({ type= "get", url= "https=//www.immoscoop.be/ajax_external_url_log.php", data= "p="+p_id+"&m="+ m_id, success= function(html){ if(html =="true") { //redirectwindow.location; } }, beforesend=function() { } }); return false; }); $('#add_tel').click(function(e){ e.preventdefault(); var redirectwindow window.open(this.href, '_blank'); p_id $(this).data("id") ; tel_m_id document.getelementbyid('tel_m_id').value ; $.ajax({ type= "get", url= "https=//www.immoscoop.be/ajax_tel_log.php", data= "p="+p_id+"&m="+ tel_m_id, success= function(html){ if(html =="true") { //redirectwindow.location; } }, beforesend=function() { } }); return false; }); $('#add_external_url_epc').click(function(e){ e.preventdefault(); var redirectwindow window.open(this.href, '_blank'); p_id $(this).data("id") ; m_id document.getelementbyid('m_id').value ; $.ajax({ type= "get", url= "https=//www.immoscoop.be/ajax_external_url_log.php", data= "p="+p_id+"&m="+ m_id, success= function(html){ if(html =="true") { //redirectwindow.location; } }, beforesend=function() { } }); return false; });}); /*]]>*/ /*<![cdata[*/function validate() { var name=document.getelementbyid('name').value; var telephone=document.getelementbyid('telephone').value; var re10
-digit=/^\d+$/; var email=document.getelementbyid('field_email').value; var reg /^([a-za-z0-9_\-\.])+\@([a-za-z0-9_\-\.])+\.([a-za-z]{2,4
-})$/; if(name==""){ alert('vul een naam in'); return false; } else if(email==""){ alert('vul een email in'); return false; } else if(reg.test(email) ==false) { alert('uw email adres is niet juist'); return false; } else if(telephone==""){ alert('gelieve een telefoon nummer in te vullen'); return false; } else if ( ((telephone.search(/www/i) ) !=-1) || ((telephone.search(/http/i) ) !=-1) || ((telephone.search(/com/i) ) !=-1)) { alert('dit is geen geldig telefoon nummer'); return false; } return true; }function validatewhise() { var name=document.getelementbyid('name').value; var telephone=document.getelementbyid('telephone').value; var re10
-digit=/^\d+$/; var email=document.getelementbyid('field_email').value; var reg /^([a-za-z0-9_\-\.])+\@([a-za-z0-9_\-\.])+\.([a-za-z]{2,4
-})$/; if(document.getelementbyid('field_gender').value==""){ alert('vul een aanspreking in'); return false; } if(name==""){ alert('vul een naam in'); return false; } if(document.getelementbyid('field_voornaam').value==""){ alert('vul een voornaam in'); return false; } if(document.getelementbyid('field_houseno').value==""){ alert('vul een huis nummer in'); return false; } if(document.getelementbyid('field_adres').value==""){ alert('vul een adres in'); return false; } if(document.getelementbyid('field_city').value==""){ alert('vul een gemeente / stad in'); return false; } if(document.getelementbyid('field_postcode').value==""){ alert('vul een postcode in'); return false; } else if(email==""){ alert('vul een email in'); return false; } else if(reg.test(email) ==false) { alert('uw email adres is niet juist'); return false; } else if(telephone==""){ alert('gelieve een telefoon nummer in te vullen'); return false; } else if ( ((telephone.search(/www/i) ) !=-1) || ((telephone.search(/http/i) ) !=-1) || ((telephone.search(/com/i) ) !=-1)) { alert('dit is geen geldig telefoon nummer'); return false; } return true; }function validatedewaele() { var name=document.getelementbyid('name').value; var telephone=document.getelementbyid('telephone').value; var mobile=document.getelementbyid('field_mobile').value; var re10
-digit=/^\d+$/; var email=document.getelementbyid('field_email').value; var reg /^([a-za-z0-9_\-\.])+\@([a-za-z0-9_\-\.])+\.([a-za-z]{2,4
-})$/; if(name==""){ alert('vul een naam in'); return false; } if(document.getelementbyid('field_voornaam').value==""){ alert('vul een voornaam in'); return false; } else if(email==""){ alert('vul een email in'); return false; } else if(reg.test(email) ==false) { alert('uw email adres is niet juist'); return false; } else if(mobile==""){ alert('gelieve een mobiel nummer in te vullen'); return false; } else if ( ((mobile.search(/www/i) ) !=-1) || ((mobile.search(/http/i) ) !=-1) || ((telephone.search(/com/i) ) !=-1)) { alert('dit is geen geldig mobiel nummer'); return false; } return true; } /*]]>*/ window.datalayer window.datalayer || []; function gtag(){datalayer.push(arguments);} gtag('js', new date()); gtag('config', 'ua-73426272
--1'); gtag('config', 'aw-880323939
-');
+ http-equiv="x-ua-compatible" content="ie=edge"> charset="utf-8"> http-equiv="content-type" content="texthtml; charset=utf-8"> name="viewport" content="width=device-width, initial-scale=1.0
+, maximum-scale=1.0
+, user-scalable=no"> name="theme-color" content="#1d559
+f"> name="format-detection" content="telephone=no"> name="description" content="te renoveren woning op ca.=1539
+ligging= zeer rustig gelegen te geel larum. tevens vlotte verbinding naar omliggende gemeentenolen, herentals..."> name="google-site-verification" content="gzhrqzdcnecsnv9g-wifapgtz6xzufbjudkfsriqjdi"> huis te koop in geel=239.000
+jqe69 - heylen vastgoed | zimmo if!!navigator.useragent.matchtrident { document.write"" } set language for didomi function getcookiecname { var cstart, cend; ifdocument.cookie.length >=0 { cstart document.cookie.indexofcname + "="; ifcstart !==-1 { cstart cstart + cname.length +=1; cend document.cookie.indexof";", cstart; ifcend ===-1 { cend document.cookie.length; } return unescapedocument.cookie.substringcstart, cend; } } return ""; } var locale "", cookielocale getcookie"locale", globallocale typeof locale !=="undefined" ? locale= ""; eslint-disable-line no-undef ifcookielocale ==="nl" { locale "nl"; } ifcookielocale ==="fr" || globallocale ==="fr" { locale "fr"; } iflocale ==="" { if locale still isn't found, check url var url window.location.href; ifurl.includes"nl" { locale "nl"; } ifurl.includes"fr" { locale "fr"; } } iflocale !=="" { window.didomiconfig { languages= { enabled= [locale], default= locale } }; }window.gdprappliesglobally=true;function{function ae{if!window.frames[e]{ifdocument.bodyt.insertbeforen,t.firstchild} else{settimeoutfunction{ae},5}}}function en,r,o,c,s{function ee,t,n,a{iftypeof n!=="function"{return}if!window[r]{window[r]=[]}var i=false;ifs{i=se,t,n}if!i{window[r].push{command=e,parameter=t,callback=n,version=a}}}e.stub=true;function ta{if!window[n]||window[n].stub!==true{return}if!a.data{return} var i=typeof a.data==="string";var e;try{e=i?json.parsea.data=a.data}catcht{return}ife[o]{var r=e[o];window[n]r.command,r.parameter,functione,t{var n={};n[c]={returnvalue=e,success=t,callid=r.callid};a.source.postmessagei?json.stringifyn=n,"*"},r.version}} iftypeof window[n]!=="function"{window[n]=e;ifwindow.addeventlistener{window.addeventlistener"message",t,false}else{window.attachevent"onmessage",t}}}e"__tcfapi__tcfapibuffer__tcfapicall__tcfapireturn";a"__tcfapilocator";functione{ var t=document.createelement"script";t.id="spcloader";t.type="textjavascript";t.async=true;t.src="https=sdk.privacy-center.org"+e+"loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getelementsbytagname"script"[0];n.parentnode.insertbeforet,n}"11
+ef8ac9-6270
+-4d5e-8b99
+-8d6a5bd60059
+"};functionw, d, s, l, i { w[l] w[l] || []; w[l].push{ "gtm.start=new date.gettime, event= "gtm.js" }; var f d.getelementsbytagnames[0], j d.createelements, dl l !="datalayer" ? " j.async true; j.src "https=www.googletagmanager.comgtm.js?id=" + i + dl; f.parentnode.insertbeforej, f; }window, document, "scriptdatalayergtm-5wc6s7"; sentry.init{ dsn= 'https=34
+e49
+ebb507449
+d8b3d6c4c135224
+d82
+@sentry.zimmo.dev51
+', integrations= [ new sentry.integrations.globalhandlers{ onerror= false, onunhandledrejection= false } ], whitelisturls= [window.location.hostname] only whitelist errors on zimmo }; window.loadfallbackphoto function loadfallbackphotoimg { return img; } name="cxenseparse=mhu-immo_property_type" content="huis"> name="cxenseparse=mhu-immo_property_subtype" content="woning"> name="cxenseparse=mhu-immo_property_country" content="belgië"> name="cxenseparse=mhu-immo_property_status" content="te koop"> name="cxenseparse=mhu-immo_property_city" content="geel"> name="cxenseparse=mhu-immo_property_bedrooms" content="3"> name="cxenseparse=mhu-immo_property_province" content="antwerpen"> name="cxenseparse=mhu-immo_property_zipcode" content="2440
+"> name="cxenseparse=mhu-immo_property_adid" content="33144129
+"> name="cxenseparse=mhu-immo_property_price" content="239000.00
+"> name="cxenseparse=mhu-immo_property_price-range" content="200000
+-299999
+"> name="cxenseparse=mhu-immo_property_construction-state" content="te renoveren"> property="fb=app_id" content="270720989678462
+"> property="og=title" content="huis te koop in geel=239.000
+jqe69 - heylen vastgoed | zimmo"> property="og=image" content="https=files.zimmo.be0bnh2sc1fh1uoj04
+i4act3dr5_u=500
+x380filters=image-formatpjpg36c59f65
+-eece-4b4e-8005
+-2b6b2e800
+fc028082272
+.jpg"> property="og=url" content="https=www.zimmo.benlgeel-2440te-koophuisjqe69"> property="og=description" content="te renoveren woning op ca.=1539
+ligging= zeer rustig gelegen te geel larum. tevens vlotte verbinding naar omliggende gemeentenolen, herentals..."> property="og=image=width" content="500
+"> property="og=image=height" content="380
+"> name="twitter=card" content="property_detail"> name="twitter=site" content="@zimmo_be"> name="twitter=creator" content="@zimmo_be"> name="twitter=title" content="huis te koop in geel=239.000
+jqe69 - heylen vastgoed | zimmo"> name="twitter=description" content="te renoveren woning op ca.=1539
+ligging= zeer rustig gelegen te geel larum. tevens vlotte verbinding naar omliggende gemeentenolen, herentals..."> name="twitter=image" content="https=files.zimmo.be0bnh2sc1fh1uoj04
+i4act3dr5_u=500
+x380filters=image-formatpjpg36c59f65
+-eece-4b4e-8005
+-2b6b2e800
+fc028082272
+.jpg"> you are using an outdated browser. please upgrade your browser to improve your experience. nl nederlands français te koop in geel huis te koop in geel jqe69
+ belgië international .st0{fill=#ffb000
+;}=0 mijn zimmo aanmelden registreren publiceer uw pand meer adverteren blog leningsimulator te flirt zimmo for business voor vastgoedmakelaars zoek een vastgoed professional veelgestelde vragen over zimmo werken bij zimmo contact menu beleggingsvastgoedprijswijzerblog feedback woning te koop in geel voor=239.000
+ met=3 slaapkamerszimmo-code= jqe69 terug naar resultaten details details website vd verkoper over geel bellen mailen fotos | hoofdkenmerken | beschrijving | maandelijkse aflossing | raming kosten | vergelijking |=1=17
+ fotos liggingsplan street view meer info of bezoek aanvragen heylen vastgoed - geel +32
+014=76
+=24=54
+ +32
+0 toon nummer markt=20=2440
+ geel=516
+ keer bekeken=2 keer favoriet pand=95
+% transparantie populariteit=14
+ dagen op zimmo=14
+ dagen geleden laatste wijziging larumsebrugweg=194,=2440
+ geel zimmo-code= jqe69
+ prijs=239.000
+ prijs=239.000
+ adres larumsebrugweg=194,=2440
+ geel type woninghuis woonopp.=140
+ grondopp.=1.539
+ slaapkamers=3 badkamers=1 garages=1 bebouwing open bouwjaar=1969
+ epc=965
+ kwh zimmo markt vergelijking prijswijzer resultaat=231.282
+ huidige gem. vraagprijs op zimmo in geelhuis,=3 slpk,=76
+ -=150
+ w.o.,=12
+ ...=247.000
+ volledig rapport te renoveren woning op ca.=1539
+ligging= zeer rustig gelegen te geel larum. tevens vlotte verbinding naar omliggende gemeentenolen, herentals, geel en de e313e34
+.indeling= inkomhal, leefruimte, leefkeuken, drie slaapkamers, badkamer, garage, berging, kelder, tuin.beschrijving= via de inkomhal bereikt u de ruime leefruimte. hier geniet u van veel lichtinval door de grote raampartijen. langs de leefruimte bevindt zich de ruime leefkeuken met toegang tot het terras. verder heeft u de badkamer met aangrenzend de bergruimte met aansluiting voor de wasmachine en een apart toilet. op het eerste verdiep treft u drie ruime slaapkamers aan.tot slot is er de inpandige garage met sectionale poort en ruime tuin.bijzonderheden=- volledig onderkelderd- rolluiken- cv op stookolie- epc=965
+kwhvg, wglk, gmo, vkr, vv financieel prijs=239.000
+ * hypothecair voorstel vraag aan * eventuele bijkomende kosten kunnen btw, registratierechten, ereloon- en aktekosten notaris zijn. indeling living=25
+ keuken=1=15
+ slaapkamer=1=14
+,70
+ slaapkamer=2=14
+,80
+ slaapkamer=3=9
+,70
+ badkamer=1=8
+ badkamer=2 douche bebouwing bebouwing open bouwjaar=1969
+ aantal badkamers=1 aantal slaapkamers=3 aantal wc's=1 aantal parkings=4 grondopp.=1.539
+ woonopp.=140
+ garages=1 comfort verwarming stookolie - stookolie cv centrale verwarming dubbel glas distributie aansluiting electriciteit aansluiting telefoon aansluiting waterleiding overige tuin certificaten epc-waarde=965
+ kwh epc-certificaat nr. bekijk info energieklasse keuringsverslag elektriciteit bekijk info overstromingen effectief overstromingsgevoelig mogelijk overstromingsgevoelig afgebakend overstromingsgebied afgebakende oeverzone risicozone voor overstromingen ruimtelijke ordening stedenbouwkundige vergunning verkregen recente bestemming bekijk info dagvaarding uitgebracht voorkooprecht op dit goed verkavelingsvergunning as built attest bekijk info + toon meer info andere aankoopbegeleiders in je regio ook aanbevolen voor jou maandelijkse aflossing v.a.mnd prijs eigen kapitaal rentemnd op=25
+=01
+armnd op=20
+=01
+armnd op=15
+=01
+ar vraagaan disclaimer notaris registratiekosten= leningkosten= berekening btw- en registratiekosten niet mogelijk kostenraming voor dit pand circa=66
+mnd meer info brandverzekering circa=40
+mnd familiale verzekering circa=7mnd schuldsaldoverzekering circa=211
+jaar disclaimer mobiscore hoe bereikbaar is deze locatie te voet of met de fiets?=5.9/10
+ meer info openbaar vervoer redelijk aanbod onderwijs matig bereikbaar winkels diensten matig bereikbaar ontspanning, sport cultuur goed bereikbaar gezondheid zorg matig bereikbaar zimmo markt vergelijking meer info meer info of bezoek aanvragen bij heylen vastgoed - geel markt=20=2440
+ geel www.heylenvastgoed.benl +32
+014=76
+=24=54
+ +32
+0 toon nummer te koop=201
+ | te huur=13
+ bekijk profiel verkoper op zoek naar een specifiek aantal slaapkamers? huis=1 slaapkamer te koop in geel huis=2 slaapkamers te koop in geel huis=3 slaapkamers te koop in geel huis=4 slaapkamers te koop in geel huis=5 slaapkamers te koop in geel alle huizen te koop in geel op zoek naar een specifiek type? appartement te koop in geel garage te koop in geel grond te koop in geel bedrijfsvastgoed te koop in geel kotkamer te koop in geel nieuwbouwproject te koop in geel bekijk het aanbod in een specifieke regio van geel= immo te koop in geel2440 mijn zimmo inloggen registreren plaats je zoekertje mijn zoekopdrachten mijn favoriete panden mijn zoekertjes beheren simuleer je lening over zimmo algemene info blog werken bij zimmo veelgestelde vragen hebbes contacteer ons geef je feedback professionals adverteren pers partnersites buitenlands vastgoed volg ons facebook facebook twitter twitter pinterest pinterest instagram instagram linkedin linkedin pagina delen copyright=2007
+ -=2020
+ door gebruiksvoorwaarden - overeenkomst voor gegevensgebruik - cookiebeleid - privacy beleid - privacy voorkeuren beheren - verkoopsvoorwaarden | alle deelgemeentenserver=92 home zoeken te koop te huur nieuwbouwprojecten bedrijfsvastgoed beleggingsvastgoed prijswijzer blog zimmo code mijn zimmo inloggen registreren favoriete panden meer adverteren blog leningsimulator te flirt zimmo for business voor vastgoedmakelaars zoek een vastgoed professional veelgestelde vragen over zimmo wie zijn we? werken bij zimmo werken bij zimmo contact taalkeuze nederlands français contact var debug false; window._urls { dialogloginlink= 'nlsocialloginfacebook', advertise= 'nlpaginaadverteren', officeboxsearch= "\nl\vastgoedprofessional\", disclaimer= "https=www.mediahuis.begebruiksvoorwaarden", landingpage2= "nlzimmy-ontdek-meer-panden" }; $function {$"input,textarea".placeholder}; app.debug false; app.urls window._urls; var locale 'nl', _locale 'nl', future false, base_dir app.basedir 'varwwwvhostszimmo.behttpdocs', cdn_domains app.cdn_domains ["www01
+.zimmo.bewww02
+.zimmo.bewww03
+.zimmo.bewww04
+.zimmo.be"], user_api_url app.user_api_url "https=\\user-api.zimmo.be", my_zimmo_api_url app.my_zimmo_api_url "https=\\my.zimmo.be", zimmo_shop_url app.zimmo_shop_url "https=\\shop.zimmo.be", base_url app.base_url 'https=www.zimmo.be', fb_app_id '270720989678462
+'; app.policy null;** * global scope settings for sentry * sentry.configurescopefunctionscope { iftypeof app.user !=="undefined" { scope.setuser{ userid= app.user.get"id", userlocale= app.user.get"locale" }; } else { scope.setuser{ user= "anonymous" }; } }; $function { app.start{ el= $'body', property= { code= 'jqe69
+', subtype= 'woning', type= 'huis', type_id= '5', status= 'general.status.for_sale', status_id= '1', prijs=239000.00
+, straat= 'larumsebrugweg', nummer= '194
+', gemeente= 'geel', address= 'larumsebrugweg=194
+', aantal_slaapkamers= '3', verwarming= '1', woonopp= '140
+', grondopp= '1.539
+', postcode= '2440
+', lat= '51.183148500
+', lon= '4.935350200
+', reloadoffice= true, bouwjaar= '1969
+', constructiontype= 'open', renovatiejaar= '', nieuwbouw= false, zimmo_kantoor_id= '2212
+', hoofdfoto= 'https=files.zimmo.beryvtwuognkch-pkbuhekevcvc6k=310
+x231filters=image-formatpjpg36c59f65
+-eece-4b4e-8005
+-2b6b2e800
+fc028082272
+.jpg', fotoamount= '17
+', epc= '965
+', energylabelcategory= 'f', deelgemeente_id= '462
+', url= "https=\\www.heylenvastgoed.be\nl\whise\4194141
+", klein_beschrijf= false, cadastralincome= '', destination= '0', plotcost= '', taxableby6= '', taxableby12= '', url_responsive= false, proj_id=0, popularity=2, mobiscore= {"totaal=5.9
+,"openbaar_vervoer={"score=3,"score_description=redelijk aanboddistances={"bus={"distance=15.995300292969
+,"distance_description=null},"tram={"distance=31.753900527954
+,"distance_description=null},"trein={"distance=2.8313701152802
+,"distance_description=er is op minder dan=5km een treinstation aanwezig"}}},"onderwijs={"score=3,"score_description=matig bereikbaarabout=de score houdt o.a. rekening met voorzieningen zoals= kleuteronderwijs, lager onderwijs en middelbaar onderwijs."},"winkels_en_diensten={"score=3,"score_description=matig bereikbaarabout=de score houdt o.a. rekening met voorzieningen zoals= bakkers , slagers, voedingswinkels, restaurants, caf\u00
+e9s, kledingzaken, doe-het-zelfzaken, bank- en verzekeringskantoren, postkantoren en -punten, gemeentehuizen en rechtbanken."},"ontspanning_sport_en_cultuur={"score=4,"score_description=goed bereikbaarabout=de score houdt o.a. rekening met voorzieningen zoals= - bibliotheken, cultuurcentra, bioscopen, schouwburgen, concertzalen, sportaccommodaties, zwembaden, openbare parken, provinciale domeinen en natuurgebieden."},"gezondheid_en_zorg={"score=3,"score_description=matig bereikbaarabout=de score houdt o.a. rekening met voorzieningen zoals= dokters, tandartsen, apothekers, geestelijke gezondheidszorg, ziekenhuizen, kinderopvang, ouderenvoorzieningen, o.c.m.w. en lokale dienstencentra."}}, show_website= true, advertiser= {"name=heylen vastgoedphone=+32
+014=76
+=24=54
+mobile=showemail=1officetype=0usezimmodetail=0picturezoompercentage=0picturelogoposition=0pictureapplymainonly=0officebox=1officebox_url=https=\\www.zimmo.be\nl\vastgoedkantoor\herentals-2200
+\heylen-vastgoed-geel-74188
+\name_prefix=logo=https=\\images2.zimmo.be\logos\l_2212
+_nl.gifwebsite=www.heylenvastgoed.bepostalcode=2200
+city=herentalsaddress=grote markt=10
+forrent=13
+forsale=201
+officebox_tekoop=https=\\www.zimmo.be\nl\vastgoedkantoor\herentals-2200
+\heylen-vastgoed-geel-74188
+\te-koop\officebox_tehuur=https=\\www.zimmo.be\nl\vastgoedkantoor\herentals-2200
+\heylen-vastgoed-geel-74188
+\te-huur\"}, ispromoted= true, iframeheight=2300
+, transparency= {"main={"price={"amount=16
+,"max=16
+},"street={"amount=13
+,"max=13
+},"number={"amount=3,"max=3},"has_photo={"amount=8,"max=8},"photo_amount={"amount=5,"max=5},"bedrooms={"amount=6,"max=6},"living_area_surface={"amount=2,"max=2},"land_surface={"amount=2,"max=2}},"bonus={"price_history={"amount=20
+,"max=20
+},"market_comparison={"amount=20
+,"max=20
+},"virtual_tour={"amount=0,"max=5}}}, transparencyscore= '', zmvprijs= '231282.15819023
+', is_zprijs_zichtbaar= '1', virtueel_bezoek= '', parcelid= "18524290
+", isplus= "0", constructionstate= "te renoveren", publicsaleid= '', title= "woning te koop in geel voor \u20
+ac=239.000
+ met=3 slaapkamers", boosted= false, coronadirect= {"building=contents=family="}, province= "antwerpen", }, sellertype= 'verkoper', page= 'property', iscrawler= false, news= null, loadstats= true, search= {"region={"type=listdistrict=[141
+],"city=[],"custom=[]},"status=1type=["514326
+"],"subtype=[],"makelaar=null,"mikantoor=null,"netwerk=null,"makelaarsgroep=null,"hash=3f2a49202859
+d7f967701
+caf65
+aeedd4pricemin=null,"pricemax=250000
+,"priceincludeunknown=true,"pricechangedonly=false,"bedroomsmin=null,"bedroomsmax=null,"bedroomsincludeunknown=true,"bathroomsmin=null,"bathroomsmax=null,"bathroomsincludeunknown=true,"constructiontype=[],"constructionincludeunknown=true,"livingareamin=null,"livingareamax=null,"livingareaincludeunknown=true,"landareamin=null,"landareamax=null,"landareaincludeunknown=true,"commercialareamin=null,"commercialareamax=null,"commercialareaincludeunknown=true,"yearofconstructionmin=null,"yearofconstructionmax=null,"yearofconstructionincludeunknown=true,"epcmin=null,"epcmax=null,"epcincludeunknown=true,"hasgarden=null,"hasterrasse=null,"hasgarage=null,"hasfurniture=null,"newconstructiononly=null,"projectsonly=null,"filterpublicsales=null,"filterinvestments=null,"query=null,"querycondition=andincludenophotos=true,"includenoaddress=true,"onlyrecent=false,"onlyrecentlyupdated=false,"nieuwsinds=null,"lastpricedrop=null,"minprecision=null,"maxprecision=null,"isplus=false,"excludedestates=[],"notarysaletypeids=null,"notarysale=null}, searchterms= [], energydata= null, loansimulation= {"loan15
+=1394.9275826056
+,"loan20
+=1112.4988670511
+,"loan25
+=945.02460030179
+,"registration=17752.01
+,"loancosts=4702.5344
+}, plustoken= '', }; app.trackingcodehandler.call"criteo", function { iftypeof window.criteo_q ==='undefined' { window.criteo_q []; } window.criteo_q.push {event= "viewitem", item= "jqe69
+"}; }; }; $function { app.trackingcodehandler.call"doubleclickfloodlight"; app.trackingcodehandler.call"hotjar"; app.trackingcodehandler.call"cxenseandenreach"; }; $function { app.trackingcodehandler.call"googleanalytics", function { }; }; $function { app.trackingcodehandler.call"gemius"; }; 

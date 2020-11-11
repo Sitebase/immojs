@@ -10,5 +10,11 @@
     "test": "mocha -w test"
   },
   "author": "Sitebase (Wim Mostmans)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
 }

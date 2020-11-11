@@ -25,3 +25,10 @@ Command line tool to fetch real estates from different sources.
 
 ### Detect google maps url for address
 https://www.google.com/maps/place/51.1837884815087,4.98187065124512
+
+## Detect kadaster
+2AFD/LICHTAART Sectie F nr. 596a
+
+## unique
+attach generated date and hash of all values
+this hash can then be used as unique key to prevent add duplicates to the database

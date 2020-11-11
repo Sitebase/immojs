@@ -1,0 +1,14 @@
+{
+  "name": "immojs",
+  "version": "1.0.0",
+  "description": "Command line tool to fetch real estates from different sources.",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -w test"
+  },
+  "author": "Sitebase (Wim Mostmans)",
+  "license": "ISC"
+}

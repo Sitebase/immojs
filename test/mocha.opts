@@ -1,0 +1,3 @@
+--recursive
+--reporter mocha-circleci-reporter
+-r test/setup.js

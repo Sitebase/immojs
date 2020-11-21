@@ -7,8 +7,8 @@
     "test": "test"
   },
   "scripts": {
-    "dev": "nodemon src/server.js",
-    "test": "mocha -w test"
+    "test": "mocha test",
+    "dev": "mocha -w test"
   },
   "author": "Sitebase (Wim Mostmans)",
   "license": "ISC",

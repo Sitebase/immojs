@@ -30,7 +30,7 @@ function parse(html) {
             //console.log('found', found);
         }
     });
-console.log('parsed', parsed);
+//console.log('parsed', parsed);
     // backfillers
     if (!parsed.price) {
         const price = html.match(/€\s+\d+\.\d+/);
@@ -63,7 +63,7 @@ console.log('parsed', parsed);
         
         if (res) {
             const address = res[1];
-            console.log('res', res[1]);
+            //console.log('res', res[1]);
             if (res[1].match(/\d+\.\d+\,\d+\.\d+/)) {
                 set(parsed, 'location.lat', parseFloat(address.split(',')[0]));
                 set(parsed, 'location.lng', parseFloat(address.split(',')[1]));
@@ -124,6 +124,11 @@ function genericClean(html) {
             .replace(/\r(\d)/g, "/$1")
 }
 
+function parseListing(html) {
+    return html; 
+}
+
 module.exports = {
-    parse
+    parse,
+    parseListing
 }

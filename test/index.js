@@ -77,6 +77,7 @@ describe('Image source functional tests', () => {
     it('Should parse Immoweb (Huis)', () => {
         const result = parse(fixtures.property.immoweb.home);
 
+        console.log(result);
         expectPrice(result);
         expectLandSurface(result);
         expectHabitableSurface(result);

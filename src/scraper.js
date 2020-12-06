@@ -55,8 +55,8 @@ const scraperObject = {
         //await page.waitForSelector('.main-container');
         console.log('found links');
 
-        const data = await page.evaluate(() => document.querySelector('*').outerHTML);
-        console.log(data);
+        //const data = await page.evaluate(() => document.querySelector('*').outerHTML);
+        //console.log(data);
 
         // Get the link to all the required books
         let urls = await page.$$eval('.card__title-link', links => {

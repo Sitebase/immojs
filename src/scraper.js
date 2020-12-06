@@ -1,32 +1,18 @@
-//const puppeteer = require('puppeteer');
-
 const puppeteer = require('puppeteer-extra')
- 
-// add stealth plugin and use defaults (all evasion techniques)
 const StealthPlugin = require('puppeteer-extra-plugin-stealth')
+const URL = require('url').URL;
+const fs = require('fs');
+
+const { parse, parseListing } = require('./index.js');
+
 puppeteer.use(StealthPlugin())
 
 async function startBrowser(){
     let browser;
 
-    const args = [
-        '--no-sandbox',
-        '--disable-setuid-sandbox',
-        '--disable-infobars',
-        '--window-position=0,0',
-        '--ignore-certifcate-errors',
-        '--ignore-certifcate-errors-spki-list',
-        '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3312.0 Safari/537.36"'
-    ];
-
     try {
         console.log("Opening the browser......");
-        browser = await puppeteer.launch({
-            headless: true,
-            //args: args,
-            //ignoreHTTPSErrors: true,
-            //userDataDir: './tmp'
-        });
+        browser = await puppeteer.launch({ headless: true, });
     } catch (err) {
         console.log("Could not create a browser instance => : ", err);
     }
@@ -45,8 +31,9 @@ async function scrapeAll(browserInstance){
     }
 }
 
+const url = 'https://www.immoweb.be/en/search/house/for-sale/geel/2440?countries=BE&maxPrice=270000&page=1&orderBy=relevance';
 const scraperObject = {
-    url: 'https://www.immoweb.be/en/search/house/for-sale/geel/2440?countries=BE&maxPrice=270000&page=1&orderBy=relevance',
+    url: url,
     async scraper(browser){
         let page = await browser.newPage();
         console.log(`Navigating to ${this.url}...`);
@@ -55,19 +42,20 @@ const scraperObject = {
         //await page.waitForSelector('.main-container');
         console.log('found links');
 
-        //const data = await page.evaluate(() => document.querySelector('*').outerHTML);
+        const source = await page.evaluate(() => document.querySelector('*').outerHTML);
+
+        browser.close();
         //console.log(data);
 
-        // Get the link to all the required books
-        let urls = await page.$$eval('.card__title-link', links => {
-            // Make sure the book to be scraped is in stock
-            // Extract the links from the data
-            links = links.map(el => el.href)
-            //links = links.map(el => el.querySelector('h3 > a').href)
-            return links;
+        const baseURL = new URL(url).origin;
+        const res = parseListing(source, baseURL);
+        console.log('res', res);
+
+        fs.appendFile('output/immoweb.csv', res.join("\n"), function (err) {
+            if (err) throw err;
+            console.log('Saved!');
         });
-        await browser.close();
-        console.log(urls);
+
     }
 }
 

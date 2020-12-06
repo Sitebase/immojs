@@ -184,10 +184,22 @@ describe('Image source functional tests', () => {
         expectAddress(result);
     });
 
-    //it('Should list property urls on a page', () => {
-        //const { parseListings } = require('../src/index.js');
-        //const res = parseListing(fixtures.listing.vastengoed);
-        //console.log('res', res);
-    //});
+    it('Should list property urls on a page', () => {
+        const { parseListings } = require('../src/index.js');
+        const source = fixtures.listing.tweedehands;
+        const res = parseListing(source, 'https://www.2dehands.be');
+
+        // expect to find 45 results
+        assert.equal(res.length, 45);
+    });
+
+    it('Should list property urls on a page 2', () => {
+        const { parseListings } = require('../src/index.js');
+        const source = fixtures.listing.immoweb;
+        const res = parseListing(source);
+
+        // expect to find 31 results
+        assert.equal(res.length, 31);
+    });
 
 })

@@ -7,15 +7,20 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha test",
-    "dev": "mocha -w test"
+    "test": "mocha test && npm run scrape",
+    "dev": "mocha -w test",
+    "scrape": "node src/scraper.js"
   },
   "author": "Sitebase (Wim Mostmans)",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
     "lodash": "^4.17.20",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.5.0",
+    "puppeteer-extra": "^3.1.15",
+    "puppeteer-extra-plugin-stealth": "^2.6.5"
   },
   "devDependencies": {
     "mocha": "^8.2.1"

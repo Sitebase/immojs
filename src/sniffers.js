@@ -1,3 +1,5 @@
+const URL = require('url').URL;
+
 /**
  * Sniffers are a little more advanced code
  * than the mappers which just do text based searches
@@ -69,9 +71,19 @@ function findOriginalURL(source) {
     return res[1];
 }
 
+function findBaseURL(source) {
+    const res = source.match(/<meta[^>]+property="og:url"\scontent="([^")]*)"/);
+
+    if (!res)
+        return;
+
+    return new URL(res[1]).origin;
+}
+
 module.exports = {
     findId,
     findAddress,
     findPrice,
-    findOriginalURL
+    findOriginalURL,
+    findBaseURL
 }

@@ -1,4 +1,6 @@
 const fs = require('fs');
+const URL = require('url').URL;
+const cheerio = require('cheerio');
 const set = require('lodash/set');
 const mapper = require('./mapper.js');
 const sniffers = require('./sniffers.js');
@@ -49,8 +51,30 @@ function parse(html) {
     return parsed;
 }
 
-function parseListing(html) {
-    return html; 
+const propertyURLMatches = [
+    'immo-aanbod', // vastengoed
+    'classified', // immoweb -- shitty no js blocking
+    '\/a\/immo\/', // 2dehands
+];
+// TODO remove all urls that don't have an id because these are category urls probably
+function parseListing(html, forceSourceURL = null) {
+    const sourceURL = forceSourceURL || sniffers.findOriginalURL(html);
+    const propertyRE = new RegExp('(' + propertyURLMatches.join('|') + ')', 'g');
+    const links = [];
+
+    const baseURL = sniffers.findBaseURL(html);
+    const $ = cheerio.load(html);
+    $('a').each(function(i, elem) {
+        const href = $(this).prop('href');
+        if (href && href.match(propertyRE)) {
+            const prefix = href.indexOf('https://') > -1 ? '' : baseURL;
+            const link = prefix + href;
+
+            if (link.indexOf(baseURL) == 0)
+                links.push(link);
+        }
+    });
+    return links;
 }
 
 module.exports = {

@@ -13,6 +13,7 @@
   "author": "Sitebase (Wim Mostmans)",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
     "lodash": "^4.17.20",
     "node-fetch": "^2.6.1"

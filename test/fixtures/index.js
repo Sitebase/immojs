@@ -44,6 +44,7 @@ module.exports = {
     },
     listing: {
         tweedehands: fs.readFileSync('./test/fixtures/tweedehands-list.html').toString(),
-        vastengoed: fs.readFileSync('./test/fixtures/vastengoed-list.html').toString()
+        vastengoed: fs.readFileSync('./test/fixtures/vastengoed-list.html').toString(),
+        immoweb: fs.readFileSync('./test/fixtures/immoweb-list.html').toString()
     }
 };
